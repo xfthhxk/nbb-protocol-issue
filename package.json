@@ -1,0 +1,8 @@
+{
+    "name": "nbb-protocol-issue",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^3.18.1",
+        "nbb": "^0.0.109"
+    }
+}
